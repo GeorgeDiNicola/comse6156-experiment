@@ -1,0 +1,6 @@
+#!/bin/bash
+for i in {1..100}
+do
+        echo "Iteration: $i"
+        time docker exec 228d2a46d408 mysql -u root -p1234 -e "USE mysql_test; insert into user_tbl (id, first_name, last_name, email_address, street_address, city, state, postal_code, credit_card_num, credit_card_type, account_balance, currency_code) values (${i}, 'Aurthur', 'Shirrell', 'ashirrell0@stanford.edu', '0693 Myrtle Terrace', 'Toledo', 'OH', '43605', '5610427234103998', 'bankcard', '8.77', 'USD');"
+done 2>&1 | tee mysql_test_insert_results.log

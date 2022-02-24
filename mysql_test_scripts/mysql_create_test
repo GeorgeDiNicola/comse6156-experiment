@@ -1,0 +1,6 @@
+#!/bin/bash
+for i in {1..100}
+do
+        echo "Iteration: $i"
+        time docker exec 228d2a46d408 mysql -u root -p1234 -e "USE mysql_test; create table user_tbl${i}(id INT NOT NULL AUTO_INCREMENT, first_name VARCHAR(50), last_name VARCHAR(50), email_address VARCHAR(50), street_address VARCHAR(50), city VARCHAR(50), state VARCHAR(2), postal_code VARCHAR(5), credit_card_num VARCHAR(16), credit_card_type VARCHAR(50), account_balance DECIMAL(8,2), currency_code VARCHAR(3), PRIMARY KEY ( id ) );"
+done 2>&1 | tee mysql_test_create_results.log
