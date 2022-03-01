@@ -1,0 +1,38 @@
+curl -H "Content-Type: application/json" -X POST -d '
+{
+ "method": "t_create",
+ "params": [{
+     "secret": "xnoPBzXtMeMyMHUVTgbuqAfg1SUTb",
+     "tx_json": {
+         "TransactionType": "TableListSet",
+         "Account": "zHb9CJAWyB4zj91VRWn96DkukG4bwdtyTh",
+         "Tables": [
+             {
+                 "Table": { "TableName": "occupation" }
+             }
+         ],
+         "OpType": 1,
+         "Raw": [
+             {
+                 "field": "id",
+                 "type": "int",
+                 "PK": 1,
+                 "NN": 1,
+                 "UQ": 1
+             },
+             {
+                 "field": "job_title",
+                 "type": "varchar",
+                 "length": 50
+             },
+             {
+                 "field": "last_name",
+                 "type": "decimal"
+             }
+
+         ],
+         "Confidential": false
+     }
+ }]
+}
+' http://127.0.0.1:5005

@@ -1,0 +1,1000 @@
+Iteration: 1
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195   102k  21666 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.023s
+user	0m0.009s
+sys	0m0.000s
+Iteration: 2
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195   102k  21666 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.018s
+user	0m0.003s
+sys	0m0.005s
+Iteration: 3
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195   102k  21666 --:--:-- --:--:-- --:--:--  139k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.018s
+user	0m0.004s
+sys	0m0.004s
+Iteration: 4
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195   102k  21666 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.018s
+user	0m0.008s
+sys	0m0.000s
+Iteration: 5
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195   102k  21666 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.009s
+sys	0m0.000s
+Iteration: 6
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.009s
+sys	0m0.000s
+Iteration: 7
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.008s
+sys	0m0.000s
+Iteration: 8
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.018s
+user	0m0.008s
+sys	0m0.000s
+Iteration: 9
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.004s
+sys	0m0.004s
+Iteration: 10
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195   102k  21666 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.008s
+sys	0m0.000s
+Iteration: 11
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.008s
+sys	0m0.000s
+Iteration: 12
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.004s
+sys	0m0.005s
+Iteration: 13
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.009s
+sys	0m0.000s
+Iteration: 14
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.018s
+user	0m0.008s
+sys	0m0.000s
+Iteration: 15
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195   102k  21666 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.018s
+user	0m0.000s
+sys	0m0.008s
+Iteration: 16
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.018s
+user	0m0.004s
+sys	0m0.004s
+Iteration: 17
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.018s
+user	0m0.004s
+sys	0m0.004s
+Iteration: 18
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.006s
+sys	0m0.002s
+Iteration: 19
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.003s
+sys	0m0.006s
+Iteration: 20
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.004s
+sys	0m0.004s
+Iteration: 21
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.004s
+sys	0m0.004s
+Iteration: 22
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.004s
+sys	0m0.004s
+Iteration: 23
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.006s
+sys	0m0.003s
+Iteration: 24
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195   102k  21666 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.009s
+sys	0m0.000s
+Iteration: 25
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.000s
+sys	0m0.009s
+Iteration: 26
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195   102k  21666 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.009s
+sys	0m0.000s
+Iteration: 27
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.020s
+user	0m0.009s
+sys	0m0.000s
+Iteration: 28
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.003s
+sys	0m0.006s
+Iteration: 29
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195   102k  21666 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.009s
+sys	0m0.000s
+Iteration: 30
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.020s
+user	0m0.009s
+sys	0m0.000s
+Iteration: 31
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.020s
+user	0m0.005s
+sys	0m0.005s
+Iteration: 32
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.023s
+user	0m0.004s
+sys	0m0.005s
+Iteration: 33
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.020s
+user	0m0.009s
+sys	0m0.000s
+Iteration: 34
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.002s
+sys	0m0.006s
+Iteration: 35
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  86090  17727 --:--:-- --:--:-- --:--:--  101k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.021s
+user	0m0.006s
+sys	0m0.003s
+Iteration: 36
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195   102k  21666 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.018s
+user	0m0.000s
+sys	0m0.009s
+Iteration: 37
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195   102k  21666 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.018s
+user	0m0.004s
+sys	0m0.004s
+Iteration: 38
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.018s
+user	0m0.004s
+sys	0m0.004s
+Iteration: 39
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.018s
+user	0m0.008s
+sys	0m0.000s
+Iteration: 40
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195   102k  21666 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.018s
+user	0m0.003s
+sys	0m0.006s
+Iteration: 41
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195   102k  21666 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.018s
+user	0m0.008s
+sys	0m0.000s
+Iteration: 42
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195   102k  21666 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.021s
+user	0m0.003s
+sys	0m0.005s
+Iteration: 43
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195   102k  21666 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.008s
+sys	0m0.000s
+Iteration: 44
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195   102k  21666 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.018s
+user	0m0.000s
+sys	0m0.008s
+Iteration: 45
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.018s
+user	0m0.000s
+sys	0m0.008s
+Iteration: 46
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.008s
+sys	0m0.000s
+Iteration: 47
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.005s
+sys	0m0.003s
+Iteration: 48
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195   102k  21666 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.008s
+sys	0m0.000s
+Iteration: 49
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195   102k  21666 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.004s
+sys	0m0.004s
+Iteration: 50
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.006s
+sys	0m0.003s
+Iteration: 51
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.004s
+sys	0m0.004s
+Iteration: 52
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.004s
+sys	0m0.004s
+Iteration: 53
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.003s
+sys	0m0.006s
+Iteration: 54
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.003s
+sys	0m0.006s
+Iteration: 55
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.020s
+user	0m0.003s
+sys	0m0.006s
+Iteration: 56
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.009s
+sys	0m0.000s
+Iteration: 57
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.008s
+sys	0m0.000s
+Iteration: 58
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.008s
+sys	0m0.000s
+Iteration: 59
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.004s
+sys	0m0.004s
+Iteration: 60
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.020s
+user	0m0.003s
+sys	0m0.006s
+Iteration: 61
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.004s
+sys	0m0.005s
+Iteration: 62
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.020s
+user	0m0.006s
+sys	0m0.003s
+Iteration: 63
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.004s
+sys	0m0.004s
+Iteration: 64
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.009s
+sys	0m0.000s
+Iteration: 65
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195   102k  21666 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.018s
+user	0m0.004s
+sys	0m0.004s
+Iteration: 66
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195   102k  21666 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.018s
+user	0m0.005s
+sys	0m0.003s
+Iteration: 67
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.006s
+sys	0m0.002s
+Iteration: 68
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.009s
+sys	0m0.000s
+Iteration: 69
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.004s
+sys	0m0.004s
+Iteration: 70
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.006s
+sys	0m0.003s
+Iteration: 71
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.004s
+sys	0m0.004s
+Iteration: 72
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.008s
+sys	0m0.000s
+Iteration: 73
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.003s
+sys	0m0.006s
+Iteration: 74
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  63133  13000 --:--:-- --:--:-- --:--:-- 76133
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.024s
+user	0m0.008s
+sys	0m0.000s
+Iteration: 75
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.009s
+sys	0m0.000s
+Iteration: 76
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.004s
+sys	0m0.005s
+Iteration: 77
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  78916  16250 --:--:-- --:--:-- --:--:-- 95166
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.021s
+user	0m0.004s
+sys	0m0.005s
+Iteration: 78
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.009s
+sys	0m0.000s
+Iteration: 79
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.009s
+sys	0m0.000s
+Iteration: 80
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.009s
+sys	0m0.000s
+Iteration: 81
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.004s
+sys	0m0.004s
+Iteration: 82
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.004s
+sys	0m0.004s
+Iteration: 83
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.006s
+sys	0m0.002s
+Iteration: 84
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.008s
+sys	0m0.000s
+Iteration: 85
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195   102k  21666 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.000s
+sys	0m0.009s
+Iteration: 86
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.002s
+sys	0m0.007s
+Iteration: 87
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.008s
+sys	0m0.000s
+Iteration: 88
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.008s
+sys	0m0.000s
+Iteration: 89
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.004s
+sys	0m0.004s
+Iteration: 90
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.004s
+sys	0m0.004s
+Iteration: 91
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.008s
+sys	0m0.000s
+Iteration: 92
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195   102k  21666 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.018s
+user	0m0.000s
+sys	0m0.008s
+Iteration: 93
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.009s
+sys	0m0.000s
+Iteration: 94
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.020s
+user	0m0.007s
+sys	0m0.002s
+Iteration: 95
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.020s
+user	0m0.009s
+sys	0m0.000s
+Iteration: 96
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.006s
+sys	0m0.003s
+Iteration: 97
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  123k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.019s
+user	0m0.006s
+sys	0m0.003s
+Iteration: 98
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.020s
+user	0m0.004s
+sys	0m0.005s
+Iteration: 99
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.020s
+user	0m0.002s
+sys	0m0.007s
+Iteration: 100
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100  1142  100   947  100   195  94700  19500 --:--:-- --:--:-- --:--:--  111k
+{"result":{"diff":0,"lines":[{"account_balance":8516,"city":"New Orleans","credit_card_num":"5100135412433536","credit_card_type":"mastercard","currency_code":"USD","email_address":"fdurak0@people.com.cn","first_name":"Frederique","id":1,"last_name":"Durak","postal_code":"70154","state":"LA","street_address":"3681 Spohn Circle"},{"account_balance":1195,"city":"Littleton","credit_card_num":"5002353821096278","credit_card_type":"mastercard","currency_code":"USD","email_address":"vsleeman1d@g.co","first_name":"Vikki","id":50,"last_name":"Sleeman","postal_code":"80127","state":"CO","street_address":"9 Cascade Court"},{"account_balance":3031,"city":"Fort Wayne","credit_card_num":"5048372933270734","credit_card_type":"mastercard","currency_code":"USD","email_address":"apetti2r@google.fr","first_name":"Allx","id":100,"last_name":"Petti","postal_code":"46825","state":"IN","street_address":"7422 Village Green Street"}],"status":"success"}}
+
+
+real	0m0.020s
+user	0m0.000s
+sys	0m0.010s
