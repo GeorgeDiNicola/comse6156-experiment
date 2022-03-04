@@ -1,5 +1,5 @@
 # comse6156-experiment
-Experiment Scripts, Data, and Test Results
+Experiment Scripts, ChainSql Setup, Data, and Test Results.
 
 # ChainSQL application setup from the following:
 * http://www.chainsql.net/
