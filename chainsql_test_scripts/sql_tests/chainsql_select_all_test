@@ -1,0 +1,15 @@
+#!/bin/bash
+for i in {1..100}
+do
+    echo "Iteration: $i"
+    time curl -H "Content-Type: application/json" -X POST -d '
+ {
+     "method": "r_get_sql_admin",
+     "params": [
+         {
+             "sql": "select * from t_388DE65954ABB9C7F66E0B7FC2D40C1E1E6E2E51"
+         }
+     ]
+ }' http://127.0.0.1:5005
+ sleep 5
+done 2>&1 | tee chainsql_test_select_all_results.log

@@ -1,0 +1,89 @@
+#!/bin/bash
+for i in {1..100}
+do
+        echo "Iteration: $i"
+        time curl -H "Content-Type: application/json" -X POST -d '
+{
+ "method": "t_create",
+ "params": [{
+     "secret": "xnoPBzXtMeMyMHUVTgbuqAfg1SUTb",
+     "tx_json": {
+         "TransactionType": "TableListSet",
+         "Account": "zHb9CJAWyB4zj91VRWn96DkukG4bwdtyTh",
+         "Tables": [
+             {
+                 "Table": { "TableName": "user_tbl'${i}'" }
+             }
+         ],
+         "OpType": 1,
+         "Raw": [
+             {
+                 "field": "id",
+                 "type": "int",
+                 "PK": 1,
+                 "NN": 1,
+                 "UQ": 1
+             },
+             {
+                 "field": "first_name",
+                 "type": "varchar",
+                 "length": 50
+             },
+             {
+                 "field": "last_name",
+                 "type": "varchar",
+                 "length": 50
+             },
+             {
+                 "field": "email_address",
+                 "type": "varchar",
+                 "length": 50
+             },
+             {
+                 "field": "street_address",
+                 "type": "varchar",
+                 "length": 50
+             },
+             {
+                 "field": "city",
+                 "type": "varchar",
+                 "length": 50
+             },
+             {
+                 "field": "state",
+                 "type": "varchar",
+                 "length": 2
+             },
+             {
+                 "field": "postal_code",
+                 "type": "varchar",
+                 "length": 5
+             },
+             {
+                 "field": "credit_card_num",
+                 "type": "varchar",
+                 "length": 16
+             },
+             {
+                 "field": "credit_card_type",
+                 "type": "varchar",
+                 "length": 50
+             },
+             {
+                 "field": "account_balance",
+                 "type": "decimal"
+             },
+             {
+                 "field": "currency_code",
+                 "type": "varchar",
+                 "length": 3
+             }
+
+         ],
+         "Confidential": false
+     }
+ }]
+}
+' http://127.0.0.1:5005
+sleep 5
+done 2>&1 | tee chainsql_test_create_results.log

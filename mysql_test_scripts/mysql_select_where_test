@@ -2,5 +2,6 @@
 for i in {1..100}
 do
         echo "Iteration: $i"
-        time docker exec 228d2a46d408 mysql -u root -p1234 -e "USE mysql_test; select * from user_tbl where id=1 and id=50 and id=100;"
+        time mysql -u root -p1234 mysql_test -h 0 -e "select * from user_tbl where id=1 or id=50 or id=100;"
+        sleep 5
 done 2>&1 | tee mysql_test_select_where_results.log

@@ -1,0 +1,41 @@
+#!/bin/bash
+for i in {1..100}
+do
+        echo "Iteration: $i"
+        time curl -H "Content-Type: application/json" -X POST -d '
+{
+ "method": "r_insert",
+ "params": [{
+     "offline": false,
+     "secret": "xnoPBzXtMeMyMHUVTgbuqAfg1SUTb",
+     "tx_json": {
+         "TransactionType": "SQLStatement",
+         "Account": "zHb9CJAWyB4zj91VRWn96DkukG4bwdtyTh",
+         "Owner": "zHb9CJAWyB4zj91VRWn96DkukG4bwdtyTh",
+         "Tables":[
+             {
+                 "Table": { "TableName": "user_tbl" }
+             }
+         ],
+         "Raw": [
+             {
+                 "id": '${i}',
+                 "first_name": "Frederique",
+                 "last_name": "Durak",
+                 "email_address": "fdurak0@people.com.cn",
+                 "street_address": "3681 Spohn Circle",
+                 "city": "New Orleans",
+                 "state": "LA",
+                 "postal_code": "70154",
+                 "credit_card_num": "5100135412433536",
+                 "credit_card_type": "mastercard",
+                 "account_balance": 8516,
+                 "currency_code": "USD"
+             }
+         ],
+         "OpType": 6
+     }
+ }]
+}' http://127.0.0.1:5005
+sleep 5
+done 2>&1 | tee chainsql_test_insert_results.log

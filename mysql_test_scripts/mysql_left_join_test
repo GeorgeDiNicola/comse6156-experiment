@@ -1,0 +1,6 @@
+#!/bin/bash
+for i in {1..100}
+do
+        echo "Iteration: $i"
+        time docker exec 228d2a46d408 mysql -u root -p1234 -e "USE mysql_test; select * from user_tbl t left join occupation o on t.id=o.id;"
+done 2>&1 | tee mysql_test_left_join_results.log

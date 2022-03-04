@@ -1,0 +1,34 @@
+#!/bin/bash
+for i in {1..100}
+do
+        echo "Iteration: $i"
+        time curl -H "Content-Type: application/json" -X POST -d '
+{
+ "method": "r_update",
+ "params": [{
+     "offline": false,
+     "secret": "xnoPBzXtMeMyMHUVTgbuqAfg1SUTb",
+     "tx_json": {
+         "TransactionType": "SQLStatement",
+         "Account": "zHb9CJAWyB4zj91VRWn96DkukG4bwdtyTh",
+         "Owner": "zHb9CJAWyB4zj91VRWn96DkukG4bwdtyTh",
+         "Tables":[
+             {
+                 "Table": { "TableName": "user_tbl" }
+             }
+         ],
+         "Raw": [
+          {
+            "first_name": "Arthur"
+          },
+          {
+            "id" : '${i}'
+          }
+        ],
+         "OpType": 8,
+         "StrictMode" : true
+     }
+ }]
+}' http://127.0.0.1:5005
+sleep 5
+done 2>&1 | tee chainsql_test_update_results.log

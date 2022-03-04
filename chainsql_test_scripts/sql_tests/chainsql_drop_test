@@ -1,0 +1,26 @@
+#!/bin/bash
+for i in {1..100}
+do
+        echo "Iteration: $i"
+        time curl -H "Content-Type: application/json" -X POST -d '
+{
+ "method": "t_drop",
+ "params": [{
+     "secret": "xnoPBzXtMeMyMHUVTgbuqAfg1SUTb",
+     "tx_json": {
+         "TransactionType": "TableListSet",
+         "Account": "zHb9CJAWyB4zj91VRWn96DkukG4bwdtyTh",
+         "Tables": [
+             {
+                 "Table": { "TableName": "user_tbl'${i}'" }
+             }
+         ],
+         "OpType": 2,
+         "Raw": [
+         ]
+     }
+ }]
+}
+' http://127.0.0.1:5005
+sleep 5
+done 2>&1 | tee chainsql_test_drop_results.log
